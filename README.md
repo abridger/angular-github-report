@@ -8,9 +8,11 @@ Technologies & Principles
 -------------------------
 * Javascript
 * Angular JS
+* Karma
+* Jasmine
 * Ruby
 * Sinatra
-* Git
+* GitHub API
 
 Features
 --------
